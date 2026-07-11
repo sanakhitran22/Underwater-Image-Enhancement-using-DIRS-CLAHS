@@ -289,26 +289,17 @@ Underwater-Image-Enhancement-DIRS-CLAHS/
 
 │
 ├── README.md
-├── requirements.txt
-├── Assignment1_CV_Attiqa_Sana.ipynb
 │
-├── report/
-│   └── Assignment1_Report.pdf
+├── Assignment1_CV.ipynb
 │
-├── presentation/
-│   └── Assignment1_Presentation.pdf
+├── Report.pdf
+│
+├── Presentation.pdf
 │
 ├── figures/
-│   ├── input/
-│   ├── output/
-│   └── comparisons/
 │
-├── results/
-│   ├── metrics.csv
-│   ├── 
-```
+└──  results/
 
----
 
 # 💻 Installation
 
