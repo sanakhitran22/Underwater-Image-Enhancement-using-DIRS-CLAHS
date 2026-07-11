@@ -298,17 +298,14 @@ Underwater-Image-Enhancement-DIRS-CLAHS/
 ├── presentation/
 │   └── Assignment1_Presentation.pdf
 │
-├── images/
+├── figures/
 │   ├── input/
 │   ├── output/
 │   └── comparisons/
 │
 ├── results/
 │   ├── metrics.csv
-│   ├── runtime_analysis.csv
-│   └── figures/
-│
-└── LICENSE
+│   ├── 
 ```
 
 ---
@@ -318,7 +315,7 @@ Underwater-Image-Enhancement-DIRS-CLAHS/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Underwater-Image-Enhancement-DIRS-CLAHS.git
+git clone https://github.com/sanakhitran22/Underwater-Image-Enhancement-DIRS-CLAHS.git
 ```
 
 Move into the project directory
@@ -342,7 +339,7 @@ jupyter notebook
 Open
 
 ```
-Assignment1_CV_Attiqa_Sana.ipynb
+Assignment1_CV.ipynb
 ```
 
 and run all cells.
